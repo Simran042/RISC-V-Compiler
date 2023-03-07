@@ -1,0 +1,3 @@
+add x2, x31, x5
+sll x0, x15, x6
+addi x3, x27, 89
